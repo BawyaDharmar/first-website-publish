@@ -1,0 +1,31 @@
+
+.header{
+    display: block;
+    background-color: black;
+
+}
+
+.navheader1 {
+display:inline-block;
+background-color: violet;
+height:30px;
+width:60px;
+padding: 10px;
+margin-left:5px ;
+}
+.navheader2 {
+    display:inline-block;
+    background-color: violet;
+    height:30px;
+    width:60px;
+    padding: 10px;
+    margin-left:5px ;
+    }
+.navheader3 {
+        display:inline-block;
+        background-color: violet;
+        height:30px;
+        width:60px;
+        padding: 10px;
+        margin-left:5px ;
+        }
