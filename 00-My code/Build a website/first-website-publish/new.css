@@ -29,3 +29,22 @@ margin-left:5px ;
         padding: 10px;
         margin-left:5px ;
         }
+#content {
+            background-color: violet;
+        }
+        .left {
+            float: left;
+            background-color: violet;
+            height:300px;
+            width:100px;
+            padding: 10px;
+            margin-left:5px ;
+        }
+        .right {
+            float: right;
+            background-color: blue;
+            height:300px;
+            width:100px;S
+            padding: 10px;
+            margin-left:5px ;
+        }
